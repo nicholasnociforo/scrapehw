@@ -1,3 +1,3 @@
 $( "#button" ).on("click", function () {
-console.log("it works!");
+alert("You scraped 50 articles!");
 });
